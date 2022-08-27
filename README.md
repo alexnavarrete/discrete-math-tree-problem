@@ -1,8 +1,8 @@
-#Discrete mathematical tree problem
+# Discrete mathematical tree problem
 Implementation of the KD-tree tree algorithm, under a set of data related to coordinates (Longitude and Latitude) corresponding to cities in Chile. 
 To subsequently perform geospatial queries by range (minimum or maximum distance), depending on the context of the query.
 
-##Summary
+## Summary
 I developed and implemented this solution to the problem in my undergraduate professional training at the Catholic University of Maule, 
 I implemented the KD-tree algorithm, specifically in a problem related to trees of the Discrete Mathematics branch in 2015, 
 this is a search method which is based on searching by indexes, which are based on binary trees, the name kd-tree comes from k-dimensional tree, 
